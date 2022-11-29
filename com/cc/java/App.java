@@ -66,6 +66,7 @@ public class App {
 		// Lösung: Wrapper ...
 			// int boo = 2;
 			// Integer boo = 2;
+			// System.out.println( t( 1 ) + c( "#c" ) + "ArraySize: " + c( "#g" ) + boo.intValue() );
 			
 			ArrayList<Integer> intList = new ArrayList<>();
 			intList.add( 10 );
